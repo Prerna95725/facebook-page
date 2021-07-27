@@ -8,4 +8,5 @@
 #profile-menu in light mode
 ![profile-menu](https://user-images.githubusercontent.com/84899089/127184202-82d91376-ed20-48ea-a9fe-420d7f731b10.png)
 #last-page
+![light-mode](https://user-images.githubusercontent.com/84899089/127184537-1478825d-05e4-4e29-8b9e-b9113b6e0b93.png)
 
